@@ -14,7 +14,11 @@ We divided the problem into two stages - Stage 1 & Stage 2:
   Here we did the encoding of the data and fed it into a Seq2Seq Attention Model to predict the next period cycle along with the probability of symptoms on each day in the cycle. 
   
 ## Future Work
-- We understand that here we are dealing with a specific case where we want the model to be personalized for each of our user and hence want the model to overfit. 
+- We understand that here we are dealing with a specific case where we want the model to be personalized for each of our user and hence want the model to overfit (in a better way). 
+- We propose a multi-step training process where we maintain a **global model** which is trained to generalize on all the data the company (psLove). 
+- Once we get a decent performance on the global model, we share that model with each of our user **local model** to finetune with the sequence data that each user has or feeds in to the model, thus leading to a **online learning process**. 
+
+
 
 ## Steps:
 - Unzip the data file
