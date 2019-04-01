@@ -1,4 +1,7 @@
-# schoolofai-hackathon
+# SolaceAI - We help you stay prepared!
+
+## Problem & Motivation:
+With SolaceAI we plan to make women better prepared for their upcoming period rather than being surprised by it. We believe that the past data from previous cycles faced by women can be leveraged to predict their next period and help them plan better for the day and the possible symptoms that could occur.
 
 ## Approach:
 We chose the Challenge No.4 - psLove challenge where the idea was to build an end to end pipeline to predict start date of an upcoming period for a female user to help her analyze the fertile window, predict symptoms and correlation. 
