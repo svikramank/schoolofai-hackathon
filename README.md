@@ -39,3 +39,8 @@ We divided the training of model into two stages - Stage 1 & Stage 2:
 - Then run the file `PSLove.ipynb`. If `augmented_data` is not found, fix path in the variable `data_path` in `PSLove.ipynb`
 - The plot showing the accuracy can be seen, once all cells are run.
 ![Alt text](plot.png?raw=true "Accuracy and Loss")
+
+
+## Contact Information
+Vikramank Singh - vikramank@berkeley.edu
+Rahul Nangia - rahul_nangia@berkeley.edu 
