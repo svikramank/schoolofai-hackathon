@@ -1,5 +1,7 @@
 # SolaceAI - We help you stay prepared!
 
+Full Presentation here - https://docs.google.com/presentation/d/1wmOoF_9GTYdhgDAV2UDR1bzNEdjPP_bK4WcK6O1-K_M/edit?usp=sharing
+
 ## Problem & Motivation:
 With SolaceAI we plan to make women better prepared for their upcoming period rather than being surprised by it. We believe that the past data from previous cycles faced by women can be leveraged to predict their next period and help them plan better for the day and the possible symptoms that could occur.
 
