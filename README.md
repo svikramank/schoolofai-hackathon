@@ -4,14 +4,16 @@
 We chose the Challenge No.4 - psLove challenge where the idea was to build an end to end pipeline to predict start date of an upcoming period for a female user to help her analyze the fertile window, predict symptoms and correlation. 
 
 ## Idea:
-We divided the problem into two stages - Stage 1 & Stage 2:
+We divided the training of model into two stages - Stage 1 & Stage 2:
 ![Alt text](4.png?raw=true "Multi-step learning")
-
 
   **Stage 1**
   We found out the data that was provided to was highly garbled and needed a lot of cleaning and pre-processing. 
   We undertook major steps to make sure the data is good for the model to ingest. 
   ![Alt text](5.png?raw=true "Data Pre-processing")
+  
+  We divided the training of model into two stages - Stage 1 & Stage 2:
+  
   A major step in our pre-processing stage was **Data Augmentation** where we divided large sequence data of women into      smaller chunks to augment the data and have a good distribution. 
   ![Alt text](1.png?raw=true "Centralized Model")
   
